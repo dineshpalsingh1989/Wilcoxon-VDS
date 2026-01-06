@@ -1,0 +1,15 @@
+dash
+dash-bootstrap-components
+dash-extensions
+plotly
+paho-mqtt
+pandas
+numpy
+scipy
+psutil
+pymodbus==2.5.3
+asyncua
+websockets
+openpyxl
+flask
+pytz
