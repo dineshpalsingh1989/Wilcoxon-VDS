@@ -1,4 +1,4 @@
-# Wilcoxon Vibration Data System (VDS)
+# Wilcoxon Vibration Data System (VDS) Cloud Dashboard
 
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg?style=for-the-badge&logo=appveyor)](http://213.111.157.130:8050)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
